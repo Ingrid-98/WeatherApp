@@ -97,3 +97,11 @@ ul {
   text-decoration: underline;
   color: ghostwhite;
 }
+.open-source {
+  transition: all 200ms ease-in-out;
+  color: #ffcab0;
+}
+.open-source:hover {
+  text-decoration: none;
+  color: #ffb5b5;
+}
